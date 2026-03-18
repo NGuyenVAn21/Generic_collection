@@ -2,6 +2,6 @@
 {
     static void Main(string[] args)
     {
-        Bai1.Run();
+        Bai8.Run();
     }
 }
