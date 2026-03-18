@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Generic_collection
+﻿class Program
 {
-    internal class Program
+    static void Main(string[] args)
     {
+        Bai2.Run();
     }
 }
